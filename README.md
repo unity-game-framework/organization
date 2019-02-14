@@ -1,4 +1,4 @@
-# com.ugf.documentation
+# ugf-documentation
 
 UGF.Documentation
 
