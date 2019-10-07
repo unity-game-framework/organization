@@ -7,10 +7,9 @@ UGF.Documentation
 This is a **Wiki** repository for the `Unity Game Framework` organization.
 
 # Topics
-
-- [Home][1]
+- [Packages](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Packages)
+- [Install Package](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Install-Package)
+- [Registry](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Registry)
 
 ---
 > Unity Game Framework | Copyright 2019
-
-[1]: https://github.com/unity-game-framework/com.ugf.documentation/wiki
