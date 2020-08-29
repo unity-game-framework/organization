@@ -1,0 +1,37 @@
+
+name: Repositories List
+
+on: workflow_dispatch
+
+jobs:
+  main:
+    name: Main
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.userToken }}
+    - name: Config
+      uses: unity-game-framework-actions/file-access@master
+      id: config
+      with:
+        input: |
+          get:
+            list:
+              input: .github/config.yml
+              path: list
+    - name: Create
+      uses: unity-game-framework-actions/repos-list@master
+      with:
+        token: ${{ secrets.userToken }}
+        config: ${{ steps.config.outputs.list }}
+        visibility: public
+        output: docs/repositories.md
+    - name: Push
+      run: |
+        git config user.name ${{ secrets.userName }}
+        git config user.email ${{ secrets.userEmail }}
+        git add docs/repositories.md
+        git commit -m "Update repositories list"
+        git push

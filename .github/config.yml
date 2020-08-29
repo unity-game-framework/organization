@@ -1,0 +1,94 @@
+# List of labels to add or update.
+# Each element has some properties. (Read about labels: https://docs.github.com/en/rest/reference/issues#update-a-label)
+#   name: The name of the label.
+#   description: A short description of the label.
+#   color: The hexadecimal color code for the label, without the leading #.
+labels:
+- name: Archived
+  description: An issue no longer relevant, but can be reopened.
+  color: fef2c0
+- name: Bug
+  description: An issue describes an unexpected problem or unintended behavior.
+  color: f9d0c4
+
+list:
+  # Body format of repository list.
+  # Available values:
+  #   context: Context object passed into action as 'context' parameter.
+  #   groups: Array of the group objects. (Read about group object below.)
+  #   groupsFormatted: Formatted groups as text.
+  # Description of group object.
+  # group:
+  #   name: Name of group from config.
+  #   description: Description of group from config.
+  #   repositories: Array of repository objects. (Read about repository object: https://docs.github.com/en/rest/reference/repos#list-repositories-for-a-user.)
+  body: |
+    # Repositories
+
+    List of available repositories.
+
+    {groupsFormatted}
+
+  # Group format of repositories.
+  # Available values:
+  #   context: Context object passed into action as 'context' parameter.
+  #   groups: Array of the group objects. (Same as groups in body.)
+  #   group: Group object. (Read about group in body description.)
+  #   repositoriesFormatted: Formatted repositories as text.
+  group: |
+    ## {group.name}
+
+    {group.description}
+
+    {repositoriesFormatted}
+
+  # Repository format
+  # Available values:
+  #   context: Context object passed into action as 'context' parameter.
+  #   repositories: Array of repository objects. (Read about repository object: https://docs.github.com/en/rest/reference/repos#list-repositories-for-a-user.)
+  #   repository: Repository object.
+  #   repositoryLabelFormatted: Repository label formatted as text.
+  repository: |
+    - [{repository.name}]({repository.html_url}) {repositoryLabelFormatted}  
+      {repository.description}
+
+  # Repository label format.
+  # Repository label is similar label which displayed at GitHub website when repository has private, template or archived flags.
+  # Formatting does not applied when repository has no label, in this case empty string returned.
+  # Available values:
+  #   context: Context object passed into action as 'context' parameter.
+  #   repository: Repository object.
+  #   repositoryLabel: Repository label text.
+  repositoryLabel: '`{repositoryLabel}`'
+
+  # Setting to group repositories before formatting.
+  # Description of group settings.
+  # group:
+  #   name: Name of group.
+  #   description: Description of group.
+  #   topics: List of comma separated topic names used to determine whether to include repository in group. (Example: 'preview,legacy'.)
+  groups:
+  - name: Featured
+    description: Projects featured to be used.
+    topics: featured
+  - name: Main
+    description: Organization main repositories.
+    topics: main
+  - name: Stable
+    description: Currently stable projects.
+    topics: stable
+  - name: Preview
+    description: Work in progress preview projects.
+    topics: preview
+  - name: Experimental
+    description: Draft experimental projects.
+    topics: experimental
+  - name: Deprecated
+    description: Not recommended to use deprecated projects.
+    topics: deprecated
+  - name: Tests
+    description: Raw test projects.
+    topics: tests
+  - name: Legacy
+    description: Legacy no longer maintained projects.
+    topics: legacy

@@ -1,12 +1,17 @@
-# ugf-documentation
+# organization
 
-UGF.Documentation
+Organization repository.
 
-# Description
+## Description
 
-This is a **Wiki** repository for the `Unity Game Framework` organization.
+This is a **Organization** repository to manage **Issues**, **Wiki** and **Workflows**, etc. at organization level.
 
-# Topics
-- [Packages](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Packages)
-- [Install Package](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Install-Package)
-- [Registry](https://github.com/unity-game-framework/com.ugf.documentation/wiki/Registry)
+## About
+
+Provides tools for creating games powered by [Unity Game Engine](https://unity.com/).
+
+## Topics
+
+- [Repositories List](docs/repositories.md): A list of available repositories at organization.
+- [Install Packages](docs/install-packages.md): A guide how to install any package.
+- [Registry](docs/registry.md): About packages registry.
