@@ -15,13 +15,8 @@ Organization main repositories.
 
 - [organization](https://github.com/unity-game-framework/organization)   
   Organization repository.
-
-## Stable
-
-Currently stable projects.
-
-- [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
-  UGF.CustomSettings
+- [ugf-draft](https://github.com/unity-game-framework/ugf-draft) `Template`  
+  Package draft repository.
 
 ## Preview
 
@@ -39,20 +34,14 @@ Work in progress preview projects.
   UGF.Coroutines
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
   UGF.Csv
-- [ugf-data](https://github.com/unity-game-framework/ugf-data)   
-  UGF.Data
+- [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
+  UGF.CustomSettings
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
   UGF.Description
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
   UGF.EditorTools
-- [ugf-elements](https://github.com/unity-game-framework/ugf-elements)   
-  UGF.Elements
-- [ugf-factory](https://github.com/unity-game-framework/ugf-factory)   
-  UGF.Factory
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
   UGF.Initialize
-- [ugf-instance](https://github.com/unity-game-framework/ugf-instance)   
-  UGF.Instance
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
   UGF.JsonNet
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
@@ -67,18 +56,10 @@ Work in progress preview projects.
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
   UGF.Module.Descriptions
-- [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements)   
-  UGF.Module.Elements
-- [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory)   
-  UGF.Module.Factory
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes)   
   UGF.Module.Scenes
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   UGF.Module.Serialize
-- [ugf-module-serialize-utf8json](https://github.com/unity-game-framework/ugf-module-serialize-utf8json)   
-  UGF.Module.Serialize.Utf8Json
-- [ugf-module-unity](https://github.com/unity-game-framework/ugf-module-unity)   
-  UGF.Module.Unity
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
   UGF.Module.Update
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool)   
@@ -91,8 +72,6 @@ Work in progress preview projects.
   UGF.Testing
 - [ugf-update](https://github.com/unity-game-framework/ugf-update)   
   UGF.Update
-- [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json)   
-  UGF.Utf8Json
 
 ## Experimental
 
@@ -100,27 +79,39 @@ Draft experimental projects.
 
 - [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
   UGF.Assemblies
-- [ugf-builder](https://github.com/unity-game-framework/ugf-builder)   
-  UGF.Builder
 - [ugf-core](https://github.com/unity-game-framework/ugf-core)   
   UGF.Core
+- [ugf-elements](https://github.com/unity-game-framework/ugf-elements)   
+  UGF.Elements
 - [ugf-jsonc](https://github.com/unity-game-framework/ugf-jsonc)   
   UGF.Jsonc
 - [ugf-math](https://github.com/unity-game-framework/ugf-math)   
   UGF.Math
-- [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache)   
-  UGF.StringCache
+- [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements)   
+  UGF.Module.Elements
+- [ugf-module-serialize-utf8json](https://github.com/unity-game-framework/ugf-module-serialize-utf8json)   
+  UGF.Module.Serialize.Utf8Json
 - [ugf-time](https://github.com/unity-game-framework/ugf-time)   
   UGF.Time
 - [ugf-types](https://github.com/unity-game-framework/ugf-types)   
   UGF.Types
+- [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json)   
+  UGF.Utf8Json
 
 ## Deprecated
 
 Not recommended to use deprecated projects.
 
+- [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `Archived`  
+  UGF.Builder
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `Archived`  
   UGF.Code.Extensions
+- [ugf-data](https://github.com/unity-game-framework/ugf-data) `Archived`  
+  UGF.Data
+- [ugf-factory](https://github.com/unity-game-framework/ugf-factory) `Archived`  
+  UGF.Factory
+- [ugf-instance](https://github.com/unity-game-framework/ugf-instance) `Archived`  
+  UGF.Instance
 - [ugf-issues](https://github.com/unity-game-framework/ugf-issues) `Archived`  
   UGF.Issues
 - [ugf-kernel](https://github.com/unity-game-framework/ugf-kernel) `Archived`  
@@ -129,8 +120,14 @@ Not recommended to use deprecated projects.
   UGF.MessagePack
 - [ugf-module](https://github.com/unity-game-framework/ugf-module) `Archived`  
   UGF.Module
+- [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `Archived`  
+  UGF.Module.Factory
+- [ugf-module-unity](https://github.com/unity-game-framework/ugf-module-unity) `Archived`  
+  UGF.Module.Unity
 - [ugf-mvc](https://github.com/unity-game-framework/ugf-mvc) `Archived`  
   UGF.Mvc
+- [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache) `Archived`  
+  UGF.StringCache
 
 ## Legacy
 
