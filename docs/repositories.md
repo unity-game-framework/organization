@@ -18,6 +18,13 @@ Organization main repositories.
 - [ugf-draft](https://github.com/unity-game-framework/ugf-draft) `Template`  
   Package draft repository.
 
+## Stable
+
+Currently stable projects.
+
+- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
+  Initialize pattern implementation.
+
 ## Preview
 
 Work in progress preview projects.
@@ -40,8 +47,6 @@ Work in progress preview projects.
   UGF.Description
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
   UGF.EditorTools
-- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
-  UGF.Initialize
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
   UGF.JsonNet
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
