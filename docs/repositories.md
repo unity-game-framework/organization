@@ -33,6 +33,8 @@ Work in progress preview projects.
 
 - [ugf-application](https://github.com/unity-game-framework/ugf-application)   
   UGF.Application
+- [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
+  Provides tools to work with assemblies.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
   UGF.AssetPipeline
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
@@ -75,6 +77,8 @@ Work in progress preview projects.
   UGF.Serialize
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing)   
   UGF.Testing
+- [ugf-types](https://github.com/unity-game-framework/ugf-types)   
+  Provides tools to work with types.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update)   
   UGF.Update
 
@@ -82,8 +86,6 @@ Work in progress preview projects.
 
 Draft experimental projects.
 
-- [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
-  UGF.Assemblies
 - [ugf-core](https://github.com/unity-game-framework/ugf-core)   
   UGF.Core
 - [ugf-elements](https://github.com/unity-game-framework/ugf-elements)   
@@ -98,8 +100,6 @@ Draft experimental projects.
   UGF.Module.Serialize.Utf8Json
 - [ugf-time](https://github.com/unity-game-framework/ugf-time)   
   UGF.Time
-- [ugf-types](https://github.com/unity-game-framework/ugf-types)   
-  UGF.Types
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json)   
   UGF.Utf8Json
 
