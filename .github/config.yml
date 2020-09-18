@@ -74,6 +74,9 @@ list:
   - name: Main
     description: Organization main repositories.
     topics: main
+  - name: Modules
+    description: Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
+    topics: module
   - name: Stable
     description: Currently stable projects.
     topics: stable
