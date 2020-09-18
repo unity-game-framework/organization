@@ -22,6 +22,8 @@ Organization main repositories.
 
 Currently stable projects.
 
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
+  Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
   Initialize pattern implementation.
 
@@ -45,8 +47,6 @@ Work in progress preview projects.
   UGF.CustomSettings
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
   UGF.Description
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
-  UGF.EditorTools
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
   UGF.JsonNet
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
