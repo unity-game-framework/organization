@@ -7,7 +7,7 @@ List of available repositories.
 Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
-  UGF.CustomSettings
+  Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 
 ## Main
 
@@ -22,6 +22,8 @@ Organization main repositories.
 
 Currently stable projects.
 
+- [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
+  Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
@@ -45,8 +47,6 @@ Work in progress preview projects.
   UGF.Coroutines
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
   UGF.Csv
-- [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
-  UGF.CustomSettings
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
   UGF.Description
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
