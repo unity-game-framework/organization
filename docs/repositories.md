@@ -24,10 +24,14 @@ Currently stable projects.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
+- [ugf-defines](https://github.com/unity-game-framework/ugf-defines)   
+  Utility to control custom compile defines in editor and during player build.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
   Initialize pattern implementation.
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
+  Provides utilities for conditional compiled logs.
 
 ## Preview
 
@@ -51,8 +55,6 @@ Work in progress preview projects.
   UGF.Description
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
   UGF.JsonNet
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
-  UGF.Logs
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages)   
   UGF.Messages
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable)   
