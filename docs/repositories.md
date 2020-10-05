@@ -8,6 +8,10 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
+  Provides tools for working with editor code.
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
+  Provides utilities for conditional compiled logs.
 
 ## Main
 
@@ -22,6 +26,8 @@ Organization main repositories.
 
 Currently stable projects.
 
+- [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
+  Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines)   
@@ -30,6 +36,8 @@ Currently stable projects.
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
   Initialize pattern implementation.
+- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
+  Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
   Provides utilities for conditional compiled logs.
 
@@ -49,12 +57,8 @@ Work in progress preview projects.
   UGF.Code.Generate
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines)   
   UGF.Coroutines
-- [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
-  UGF.Csv
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
   UGF.Description
-- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet)   
-  UGF.JsonNet
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages)   
   UGF.Messages
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable)   
