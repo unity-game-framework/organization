@@ -40,6 +40,8 @@ Currently stable projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
   Provides utilities for conditional compiled logs.
+- [ugf-ui](https://github.com/unity-game-framework/ugf-ui)   
+  Provides utilities to work with Unity UI.
 
 ## Preview
 
@@ -52,9 +54,9 @@ Work in progress preview projects.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
   UGF.AssetPipeline
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
-  UGF.Code.Analysis
+  Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate)   
-  UGF.Code.Generate
+  Provides utilities to work with code generating.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines)   
   UGF.Coroutines
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
