@@ -26,6 +26,8 @@ Organization main repositories.
 
 Currently stable projects.
 
+- [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
+  Extensions to work with custom asset pipelines.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
@@ -51,8 +53,6 @@ Work in progress preview projects.
   UGF.Application
 - [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
   Provides tools to work with assemblies.
-- [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
-  UGF.AssetPipeline
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate)   
