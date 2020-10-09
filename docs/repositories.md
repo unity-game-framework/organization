@@ -44,6 +44,8 @@ Currently stable projects.
   Provides utilities for conditional compiled logs.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui)   
   Provides utilities to work with Unity UI.
+- [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml)   
+  Runtime integration of the YamlDotNet.
 
 ## Preview
 
