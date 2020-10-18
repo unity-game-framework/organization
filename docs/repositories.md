@@ -44,6 +44,8 @@ Currently stable projects.
   Provides utilities for conditional compiled logs.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools)   
   Provides tools for working with runtime code.
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize)   
+  An abstract serialization interface.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui)   
   Provides utilities to work with Unity UI.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml)   
@@ -85,8 +87,6 @@ Work in progress preview projects.
   UGF.Pool
 - [ugf-property](https://github.com/unity-game-framework/ugf-property)   
   UGF.Property
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize)   
-  UGF.Serialize
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing)   
   UGF.Testing
 - [ugf-types](https://github.com/unity-game-framework/ugf-types)   
