@@ -26,6 +26,8 @@ Organization main repositories.
 
 Currently stable projects.
 
+- [ugf-application](https://github.com/unity-game-framework/ugf-application)   
+  Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
   Extensions to work with custom asset pipelines.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
@@ -55,8 +57,6 @@ Currently stable projects.
 
 Work in progress preview projects.
 
-- [ugf-application](https://github.com/unity-game-framework/ugf-application)   
-  UGF.Application
 - [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
   Provides tools to work with assemblies.
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
