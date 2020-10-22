@@ -22,6 +22,13 @@ Organization main repositories.
 - [ugf-draft](https://github.com/unity-game-framework/ugf-draft) `Template`  
   Package draft repository.
 
+## Modules
+
+Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
+
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
+  Module to manage multiple serializers in an application.
+
 ## Stable
 
 Currently stable projects.
@@ -44,6 +51,8 @@ Currently stable projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
   Provides utilities for conditional compiled logs.
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
+  Module to manage multiple serializers in an application.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools)   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize)   
@@ -79,8 +88,6 @@ Work in progress preview projects.
   UGF.Module.Descriptions
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes)   
   UGF.Module.Scenes
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
-  UGF.Module.Serialize
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
   UGF.Module.Update
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool)   
