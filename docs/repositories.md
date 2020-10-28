@@ -26,6 +26,8 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets)   
+  Module to manage assets loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
 
@@ -51,6 +53,8 @@ Currently stable projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs)   
   Provides utilities for conditional compiled logs.
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets)   
+  Module to manage assets loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools)   
@@ -80,8 +84,6 @@ Work in progress preview projects.
   UGF.Messages
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable)   
   UGF.Module.Addressable
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets)   
-  UGF.Module.Assets
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines)   
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
