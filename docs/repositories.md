@@ -28,6 +28,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets)   
   Module to manage assets loading.
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes)   
+  Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
 
@@ -55,6 +57,8 @@ Currently stable projects.
   Provides utilities for conditional compiled logs.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets)   
   Module to manage assets loading.
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes)   
+  Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools)   
@@ -88,8 +92,6 @@ Work in progress preview projects.
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
   UGF.Module.Descriptions
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes)   
-  UGF.Module.Scenes
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
   UGF.Module.Update
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool)   
