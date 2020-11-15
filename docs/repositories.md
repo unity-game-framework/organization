@@ -88,8 +88,6 @@ Work in progress preview projects.
   UGF.Description
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages)   
   UGF.Messages
-- [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable)   
-  UGF.Module.Addressable
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines)   
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
@@ -148,6 +146,8 @@ Not recommended to use deprecated projects.
   UGF.MessagePack
 - [ugf-module](https://github.com/unity-game-framework/ugf-module) `Archived`  
   UGF.Module
+- [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `Archived`  
+  UGF.Module.Addressable
 - [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `Archived`  
   UGF.Module.Factory
 - [ugf-module-unity](https://github.com/unity-game-framework/ugf-module-unity) `Archived`  
