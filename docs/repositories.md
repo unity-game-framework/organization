@@ -67,6 +67,8 @@ Currently stable projects.
   An abstract serialization interface.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui)   
   Provides utilities to work with Unity UI.
+- [ugf-update](https://github.com/unity-game-framework/ugf-update)   
+  Provides utilities to work with PlayerLoop and manage update loop.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml)   
   Runtime integration of the YamlDotNet.
 
@@ -102,8 +104,6 @@ Work in progress preview projects.
   UGF.Testing
 - [ugf-types](https://github.com/unity-game-framework/ugf-types)   
   Provides tools to work with types.
-- [ugf-update](https://github.com/unity-game-framework/ugf-update)   
-  UGF.Update
 
 ## Experimental
 
