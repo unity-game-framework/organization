@@ -93,7 +93,7 @@ Work in progress preview projects.
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
   UGF.Module.Descriptions
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
-  UGF.Module.Update
+  Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool)   
   UGF.Pool
 - [ugf-property](https://github.com/unity-game-framework/ugf-property)   
@@ -113,14 +113,10 @@ Draft experimental projects.
   UGF.Elements
 - [ugf-jsonc](https://github.com/unity-game-framework/ugf-jsonc)   
   UGF.Jsonc
-- [ugf-math](https://github.com/unity-game-framework/ugf-math)   
-  UGF.Math
 - [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements)   
   UGF.Module.Elements
 - [ugf-module-serialize-utf8json](https://github.com/unity-game-framework/ugf-module-serialize-utf8json)   
   UGF.Module.Serialize.Utf8Json
-- [ugf-time](https://github.com/unity-game-framework/ugf-time)   
-  UGF.Time
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json)   
   UGF.Utf8Json
 
@@ -142,6 +138,8 @@ Not recommended to use deprecated projects.
   UGF.Issues
 - [ugf-kernel](https://github.com/unity-game-framework/ugf-kernel) `Archived`  
   UGF.Kernel
+- [ugf-math](https://github.com/unity-game-framework/ugf-math) `Archived`  
+  UGF.Math
 - [ugf-messagepack](https://github.com/unity-game-framework/ugf-messagepack) `Archived`  
   UGF.MessagePack
 - [ugf-module](https://github.com/unity-game-framework/ugf-module) `Archived`  
@@ -156,6 +154,8 @@ Not recommended to use deprecated projects.
   UGF.Mvc
 - [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache) `Archived`  
   UGF.StringCache
+- [ugf-time](https://github.com/unity-game-framework/ugf-time) `Archived`  
+  UGF.Time
 
 ## Legacy
 
