@@ -32,6 +32,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
+  Module to manage update player loop.
 
 ## Stable
 
@@ -61,6 +63,8 @@ Currently stable projects.
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize)   
   Module to manage multiple serializers in an application.
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
+  Module to manage update player loop.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools)   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize)   
@@ -92,8 +96,6 @@ Work in progress preview projects.
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
   UGF.Module.Descriptions
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
-  Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool)   
   UGF.Pool
 - [ugf-property](https://github.com/unity-game-framework/ugf-property)   
