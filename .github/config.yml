@@ -77,9 +77,9 @@ list:
   - name: Modules
     description: Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
     topics: module
-  - name: Stable
-    description: Currently stable projects.
-    topics: stable
+  - name: Active
+    description: Current actively developed projects.
+    topics: active
   - name: Preview
     description: Work in progress preview projects.
     topics: preview
