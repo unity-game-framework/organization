@@ -43,12 +43,16 @@ Current actively developed projects.
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline)   
   Extensions to work with custom asset pipelines.
+- [ugf-builder](https://github.com/unity-game-framework/ugf-builder)   
+  Build pattern implementation.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv)   
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings)   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines)   
   Utility to control custom compile defines in editor and during player build.
+- [ugf-description](https://github.com/unity-game-framework/ugf-description)   
+  Description pattern implementation.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools)   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize)   
@@ -84,16 +88,12 @@ Work in progress preview projects.
   Actions system implementation.
 - [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
   Provides tools to work with assemblies.
-- [ugf-builder](https://github.com/unity-game-framework/ugf-builder)   
-  Build pattern implementation.
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate)   
   Provides utilities to work with code generating.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines)   
   UGF.Coroutines
-- [ugf-description](https://github.com/unity-game-framework/ugf-description)   
-  Description pattern implementation.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages)   
   UGF.Messages
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions)   
