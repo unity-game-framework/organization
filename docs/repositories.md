@@ -35,9 +35,9 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update)   
   Module to manage update player loop.
 
-## Stable
+## Active
 
-Currently stable projects.
+Current actively developed projects.
 
 - [ugf-application](https://github.com/unity-game-framework/ugf-application)   
   Provides an entry point of the application with modules initialization.
@@ -80,8 +80,12 @@ Currently stable projects.
 
 Work in progress preview projects.
 
+- [ugf-actions](https://github.com/unity-game-framework/ugf-actions)   
+  Actions system implementation.
 - [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies)   
   Provides tools to work with assemblies.
+- [ugf-builder](https://github.com/unity-game-framework/ugf-builder)   
+  Build pattern implementation.
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis)   
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate)   
@@ -89,9 +93,11 @@ Work in progress preview projects.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines)   
   UGF.Coroutines
 - [ugf-description](https://github.com/unity-game-framework/ugf-description)   
-  UGF.Description
+  Description pattern implementation.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages)   
   UGF.Messages
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions)   
+  Module to manage action systems in player loop.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines)   
   UGF.Module.Coroutines
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions)   
@@ -111,12 +117,8 @@ Draft experimental projects.
 
 - [ugf-core](https://github.com/unity-game-framework/ugf-core)   
   UGF.Core
-- [ugf-elements](https://github.com/unity-game-framework/ugf-elements)   
-  UGF.Elements
 - [ugf-jsonc](https://github.com/unity-game-framework/ugf-jsonc)   
   UGF.Jsonc
-- [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements)   
-  UGF.Module.Elements
 - [ugf-module-serialize-utf8json](https://github.com/unity-game-framework/ugf-module-serialize-utf8json)   
   UGF.Module.Serialize.Utf8Json
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json)   
@@ -126,12 +128,12 @@ Draft experimental projects.
 
 Not recommended to use deprecated projects.
 
-- [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `Archived`  
-  UGF.Builder
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `Archived`  
   UGF.Code.Extensions
 - [ugf-data](https://github.com/unity-game-framework/ugf-data) `Archived`  
   UGF.Data
+- [ugf-elements](https://github.com/unity-game-framework/ugf-elements) `Archived`  
+  UGF.Elements
 - [ugf-factory](https://github.com/unity-game-framework/ugf-factory) `Archived`  
   UGF.Factory
 - [ugf-instance](https://github.com/unity-game-framework/ugf-instance) `Archived`  
@@ -148,6 +150,8 @@ Not recommended to use deprecated projects.
   UGF.Module
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `Archived`  
   UGF.Module.Addressable
+- [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements) `Archived`  
+  UGF.Module.Elements
 - [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `Archived`  
   UGF.Module.Factory
 - [ugf-module-unity](https://github.com/unity-game-framework/ugf-module-unity) `Archived`  
