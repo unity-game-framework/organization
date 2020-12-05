@@ -48,8 +48,9 @@ list:
   #   repositories: Array of repository objects. (Read about repository object: https://docs.github.com/en/rest/reference/repos#list-repositories-for-a-user.)
   #   repository: Repository object.
   #   repositoryLabelFormatted: Repository label formatted as text.
+  #   repositoryReleaseFormatted: Repository release formatted as text.
   repository: |
-    - [{repository.name}]({repository.html_url}) {repositoryLabelFormatted}  
+    - [{repository.name}]({repository.html_url}) {repositoryReleaseFormatted}{repositoryLabelFormatted}  
       {repository.description}
 
   # Repository label format.
@@ -60,6 +61,14 @@ list:
   #   repository: Repository object.
   #   repositoryLabel: Repository label text.
   repositoryLabel: '`{repositoryLabel}`'
+
+  # Repository format for latest release.
+  # Formatting does not applied when repository has no any release, in this case empty string returned.
+  # Available values:
+  #   context: Context object passed into action as 'context' parameter.
+  #   repository: Repository object.
+  #   release: Repository latest release object.
+  repositoryRelease: '`{release.name}` '
 
   # Setting to group repositories before formatting.
   # Description of group settings.
