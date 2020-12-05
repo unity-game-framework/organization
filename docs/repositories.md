@@ -26,13 +26,13 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `2.0.1`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.0.0`   
   Module to manage assets loading.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `1.1.0`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.0.0`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `1.1.0`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `2.0.0`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `1.0.0`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `2.0.0`   
   Module to manage update player loop.
 
 ## Active
@@ -41,7 +41,7 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `1.0.0`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `5.3.0`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `6.0.0`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
@@ -63,13 +63,13 @@ Current actively developed projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
   Provides utilities for conditional compiled logs.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `2.0.1`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.0.0`   
   Module to manage assets loading.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `1.1.0`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.0.0`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `1.1.0`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `2.0.0`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `1.0.0`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `2.0.0`   
   Module to manage update player loop.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `1.0.0`   
   Provides tools for working with runtime code.
