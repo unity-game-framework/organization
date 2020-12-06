@@ -136,8 +136,6 @@ Not recommended to use deprecated projects.
   UGF.Factory
 - [ugf-instance](https://github.com/unity-game-framework/ugf-instance) `1.0.2` `Archived`  
   UGF.Instance
-- [ugf-issues](https://github.com/unity-game-framework/ugf-issues) `Archived`  
-  UGF.Issues
 - [ugf-kernel](https://github.com/unity-game-framework/ugf-kernel) `0.3.0-preview` `Archived`  
   UGF.Kernel
 - [ugf-math](https://github.com/unity-game-framework/ugf-math) `1.0.1` `Archived`  
@@ -162,6 +160,13 @@ Not recommended to use deprecated projects.
   UGF.StringCache
 - [ugf-time](https://github.com/unity-game-framework/ugf-time) `1.0.0-preview` `Archived`  
   UGF.Time
+
+## Other
+
+Other repositories.
+
+- [ugf-issues](https://github.com/unity-game-framework/ugf-issues) `Archived`  
+  UGF.Issues
 
 ## Legacy
 
