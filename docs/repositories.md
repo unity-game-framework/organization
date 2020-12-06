@@ -100,8 +100,6 @@ Work in progress preview projects.
   Module to manage action systems in player loop.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `0.2.0-preview`   
   UGF.Module.Coroutines
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `0.6.0-preview`   
-  UGF.Module.Descriptions
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `1.0.0-preview.1`   
@@ -150,6 +148,8 @@ Not recommended to use deprecated projects.
   UGF.Module
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `0.7.0-preview` `Archived`  
   UGF.Module.Addressable
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `0.6.0-preview`   
+  UGF.Module.Descriptions
 - [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements) `0.5.0-preview` `Archived`  
   UGF.Module.Elements
 - [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `0.1.0-preview` `Archived`  
