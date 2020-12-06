@@ -98,6 +98,9 @@ list:
   - name: Deprecated
     description: Not recommended to use deprecated projects.
     topics: deprecated
+  - name: Other
+    description: Other repositories.
+    topics: other
   - name: Tests
     description: Raw test projects.
     topics: tests
