@@ -26,6 +26,8 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.0.0`   
+  Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.0.0`   
   Module to manage assets loading.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.0.0`   
@@ -39,7 +41,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 Current actively developed projects.
 
-- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `1.0.0`   
+- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `1.0.1`   
   Actions system implementation.
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `6.0.0`   
   Provides an entry point of the application with modules initialization.
@@ -63,6 +65,8 @@ Current actively developed projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
   Provides utilities for conditional compiled logs.
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.0.0`   
+  Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.0.0`   
   Module to manage assets loading.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.0.0`   
@@ -96,8 +100,6 @@ Work in progress preview projects.
   UGF.Coroutines
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview`   
   UGF.Messages
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions)   
-  Module to manage action systems in player loop.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `0.2.0-preview`   
   UGF.Module.Coroutines
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
