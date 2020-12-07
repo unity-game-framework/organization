@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.0`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.7.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.8.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
   Provides utilities for conditional compiled logs.
@@ -57,7 +57,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.7.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.8.0`   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
@@ -100,6 +100,10 @@ Work in progress preview projects.
   UGF.Coroutines
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview`   
   UGF.Messages
+- [ugf-models](https://github.com/unity-game-framework/ugf-models)   
+  Provides utilities to work with data models.
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers)   
+  Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `0.2.0-preview`   
   UGF.Module.Coroutines
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
