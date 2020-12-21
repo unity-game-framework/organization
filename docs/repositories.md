@@ -61,7 +61,7 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
-- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.0`   
+- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.1`   
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
   Provides utilities for conditional compiled logs.
@@ -83,7 +83,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `5.2.1`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.0.0`   
+- [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
 
 ## Preview
