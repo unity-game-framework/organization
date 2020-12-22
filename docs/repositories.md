@@ -61,7 +61,7 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
-- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.1`   
+- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.2`   
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
   Provides utilities for conditional compiled logs.
@@ -77,7 +77,7 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `1.0.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `2.0.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `2.1.0`   
   An abstract serialization interface.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
