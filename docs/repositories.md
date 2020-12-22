@@ -125,6 +125,8 @@ Draft experimental projects.
   UGF.Jsonc
 - [ugf-module-serialize-utf8json](https://github.com/unity-game-framework/ugf-module-serialize-utf8json) `0.8.0-preview`   
   UGF.Module.Serialize.Utf8Json
+- [ugf-packagemanager-auth](https://github.com/unity-game-framework/ugf-packagemanager-auth)   
+  Provides utilities to manage authentication for Unity Package Manager.
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json) `4.1.1-preview`   
   UGF.Utf8Json
 
