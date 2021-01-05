@@ -10,7 +10,7 @@ Projects featured to be used.
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.8.1`   
   Provides tools for working with editor code.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.2.1`   
   Provides utilities for conditional compiled logs.
 
 ## Main
@@ -41,7 +41,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 Current actively developed projects.
 
-- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `1.0.1`   
+- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `2.0.0`   
   Actions system implementation.
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `6.1.0`   
   Provides an entry point of the application with modules initialization.
@@ -63,7 +63,7 @@ Current actively developed projects.
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.2`   
   Provides utilities to work with JsonNet.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.1.0`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.2.1`   
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.0.0`   
   Module to manage action systems in player loop.
@@ -83,6 +83,8 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `5.2.1`   
   Provides utilities to work with PlayerLoop and manage update loop.
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.0.0`   
+  Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
 
