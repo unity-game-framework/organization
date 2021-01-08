@@ -10,7 +10,7 @@ Projects featured to be used.
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.8.1`   
   Provides tools for working with editor code.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.2.1`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.0.0`   
   Provides utilities for conditional compiled logs.
 
 ## Main
@@ -63,7 +63,7 @@ Current actively developed projects.
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.2`   
   Provides utilities to work with JsonNet.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `4.2.1`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.0.0`   
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.0.0`   
   Module to manage action systems in player loop.
