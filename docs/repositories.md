@@ -43,7 +43,7 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `2.0.0`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `6.1.0`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `6.1.1`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
