@@ -61,7 +61,7 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
-- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.2`   
+- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.3`   
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.0.0`   
   Provides utilities for conditional compiled logs.
