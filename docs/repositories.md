@@ -79,7 +79,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `2.1.0`   
   Module to manage update player loop.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `1.0.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `1.1.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.0.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
