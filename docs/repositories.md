@@ -30,7 +30,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `1.0.0`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview`   
   Module to manage multiple controllers in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.2.0`   
   Module to manage scenes loading.
@@ -45,7 +45,7 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `2.0.0`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `7.1.0`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.1`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
@@ -71,7 +71,7 @@ Current actively developed projects.
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `1.0.0`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview`   
   Module to manage multiple controllers in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.2.0`   
   Module to manage scenes loading.
@@ -79,7 +79,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `2.1.0`   
   Module to manage update player loop.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `1.1.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.0.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.0.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
