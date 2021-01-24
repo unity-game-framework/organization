@@ -8,9 +8,9 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.0`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.9.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.10.0`   
   Provides tools for working with editor code.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.1`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.3`   
   Provides utilities for conditional compiled logs.
 
 ## Main
@@ -30,7 +30,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
   Module to manage multiple controllers in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.2.0`   
   Module to manage scenes loading.
@@ -45,7 +45,7 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `2.0.0`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.1`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.3`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
@@ -55,23 +55,23 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.0`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.1`   
+- [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.2`   
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.9.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.10.0`   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.2.3`   
   Provides utilities to work with JsonNet.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.1`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.3`   
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.2.0`   
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
   Module to manage multiple controllers in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `2.2.0`   
   Module to manage scenes loading.
