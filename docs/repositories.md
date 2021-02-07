@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.2.0`   
   Module to manage action systems in player loop.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview`   
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
   Module to manage multiple controllers in application.
@@ -69,7 +69,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `1.2.0`   
   Module to manage action systems in player loop.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `3.1.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview`   
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
   Module to manage multiple controllers in application.
