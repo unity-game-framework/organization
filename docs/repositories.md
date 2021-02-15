@@ -32,6 +32,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
   Module to manage multiple controllers in application.
+- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database)   
+  Module to manage multiple databases in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `3.1.0`   
@@ -55,6 +57,8 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
+- [ugf-database](https://github.com/unity-game-framework/ugf-database) `0.1.0-preview`   
+  Provides utilities to work with data as database.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.2`   
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
@@ -110,16 +114,14 @@ Work in progress preview projects.
   UGF.Coroutines
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview`   
   UGF.Messages
-- [ugf-models](https://github.com/unity-game-framework/ugf-models)   
-  Provides utilities to work with data models.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `0.2.0-preview`   
   UGF.Module.Coroutines
+- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database)   
+  Module to manage multiple databases in application.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `1.0.0-preview.1`   
   UGF.Property
-- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `0.2.0-preview`   
-  UGF.Testing
 - [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
   Provides tools to work with types.
 
@@ -127,10 +129,6 @@ Work in progress preview projects.
 
 Draft experimental projects.
 
-- [ugf-core](https://github.com/unity-game-framework/ugf-core)   
-  UGF.Core
-- [ugf-jsonc](https://github.com/unity-game-framework/ugf-jsonc) `0.2.0-preview`   
-  UGF.Jsonc
 - [ugf-packagemanager-auth](https://github.com/unity-game-framework/ugf-packagemanager-auth)   
   Provides utilities to manage authentication for Unity Package Manager.
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json) `4.1.1-preview`   
@@ -142,6 +140,8 @@ Not recommended to use deprecated projects.
 
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `1.0.1` `Archived`  
   UGF.Code.Extensions
+- [ugf-core](https://github.com/unity-game-framework/ugf-core) `Archived`  
+  UGF.Core
 - [ugf-data](https://github.com/unity-game-framework/ugf-data) `1.0.0-preview` `Archived`  
   UGF.Data
 - [ugf-elements](https://github.com/unity-game-framework/ugf-elements) `0.2.2-preview` `Archived`  
@@ -150,12 +150,16 @@ Not recommended to use deprecated projects.
   UGF.Factory
 - [ugf-instance](https://github.com/unity-game-framework/ugf-instance) `1.0.2` `Archived`  
   UGF.Instance
+- [ugf-jsonc](https://github.com/unity-game-framework/ugf-jsonc) `0.2.0-preview` `Archived`  
+  UGF.Jsonc
 - [ugf-kernel](https://github.com/unity-game-framework/ugf-kernel) `0.3.0-preview` `Archived`  
   UGF.Kernel
 - [ugf-math](https://github.com/unity-game-framework/ugf-math) `1.0.1` `Archived`  
   UGF.Math
 - [ugf-messagepack](https://github.com/unity-game-framework/ugf-messagepack) `Archived`  
   UGF.MessagePack
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `Archived`  
+  Provides utilities to work with data models.
 - [ugf-module](https://github.com/unity-game-framework/ugf-module) `0.2.0-preview` `Archived`  
   UGF.Module
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `0.7.0-preview` `Archived`  
@@ -174,6 +178,8 @@ Not recommended to use deprecated projects.
   UGF.Mvc
 - [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache) `1.0.1` `Archived`  
   UGF.StringCache
+- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `0.2.0-preview` `Archived`  
+  UGF.Testing
 - [ugf-time](https://github.com/unity-game-framework/ugf-time) `1.0.0-preview` `Archived`  
   UGF.Time
 
