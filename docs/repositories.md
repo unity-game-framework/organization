@@ -30,9 +30,9 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.1`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.2`   
   Module to manage multiple controllers in application.
-- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview`   
+- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.1`   
   Module to manage multiple databases in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview`   
   Module to manage scenes loading.
@@ -57,7 +57,7 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.0.0-preview`   
+- [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.0.0-preview.1`   
   Provides utilities to work with data as database.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.2`   
   Utility to control custom compile defines in editor and during player build.
@@ -75,9 +75,9 @@ Current actively developed projects.
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.1`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.1`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.2`   
   Module to manage multiple controllers in application.
-- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview`   
+- [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.1`   
   Module to manage multiple databases in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview`   
   Module to manage scenes loading.
