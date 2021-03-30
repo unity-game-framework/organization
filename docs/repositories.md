@@ -114,8 +114,10 @@ Work in progress preview projects.
   Provides utilities to work with code generating.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `0.1.0-preview`   
   UGF.Coroutines
-- [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview`   
-  UGF.Messages
+- [ugf-events](https://github.com/unity-game-framework/ugf-events) `0.1.0-preview`   
+  Events system implementation.
+- [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.1`   
+  Provides components with Unity standard messages.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `0.2.0-preview`   
   UGF.Module.Coroutines
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
