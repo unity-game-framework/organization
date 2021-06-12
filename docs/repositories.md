@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.1`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.2`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -36,7 +36,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage multiple controllers in application.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.2`   
   Module to manage multiple databases in application.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.3`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.4`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview`   
   Module to manage multiple serializers in an application.
@@ -85,7 +85,7 @@ Current actively developed projects.
   Module to manage coroutines run in application.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.2`   
   Module to manage multiple databases in application.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.3`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.4`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview`   
   Module to manage multiple serializers in an application.
@@ -122,7 +122,7 @@ Work in progress preview projects.
   Events system implementation.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.1`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.2`   
   Module to manage AssetBundles loading.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
