@@ -26,7 +26,7 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview`   
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.2`   
   Module to manage AssetBundles loading.
@@ -40,7 +40,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
 
 ## Active
@@ -75,7 +75,7 @@ Current actively developed projects.
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.4`   
   Provides utilities for conditional compiled logs.
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview`   
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -89,7 +89,7 @@ Current actively developed projects.
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.0.0`   
   Provides tools for working with runtime code.
@@ -101,7 +101,7 @@ Current actively developed projects.
   Serializers implementation using YamlDotNet serialization.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
-- [ugf-update](https://github.com/unity-game-framework/ugf-update) `5.2.1`   
+- [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.2`   
   Provides utilities to work with PlayerLoop and manage update loop.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.0.0`   
   Provides utilities to work with Web requests.
