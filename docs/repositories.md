@@ -91,6 +91,8 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
+- [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
+  Provides property structure as value wrapper with track and control.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.0.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.1.0`   
@@ -126,8 +128,6 @@ Work in progress preview projects.
   Module to manage AssetBundles loading.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
-- [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
-  Provides property structure as value wrapper with track and control.
 - [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
   Provides tools to work with types.
 
