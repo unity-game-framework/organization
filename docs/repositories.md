@@ -126,8 +126,8 @@ Work in progress preview projects.
   Module to manage AssetBundles loading.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
-- [ugf-property](https://github.com/unity-game-framework/ugf-property) `1.0.0-preview.1`   
-  UGF.Property
+- [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
+  Provides property structure as value wrapper with track and control.
 - [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
   Provides tools to work with types.
 
