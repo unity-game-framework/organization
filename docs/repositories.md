@@ -49,13 +49,13 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.7`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.8`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
   Build pattern implementation.
-- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.1`   
+- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.2`   
   Provides utilities to work with Unity coroutines.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv) `1.0.0`   
   Runtime integration of the CsvHelper.
