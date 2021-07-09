@@ -57,7 +57,7 @@ Current actively developed projects.
   Build pattern implementation.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.2`   
   Provides utilities to work with Unity coroutines.
-- [ugf-csv](https://github.com/unity-game-framework/ugf-csv) `1.0.0`   
+- [ugf-csv](https://github.com/unity-game-framework/ugf-csv) `1.0.1`   
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
@@ -95,7 +95,7 @@ Current actively developed projects.
   Provides property structure as value wrapper with track and control.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.0.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.1.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.1.1`   
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `1.0.1`   
   Serializers implementation using Json.Net serialization.
