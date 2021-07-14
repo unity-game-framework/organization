@@ -61,7 +61,7 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.0.0-preview.4`   
+- [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.1.0-preview`   
   Provides utilities to work with data as database.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.4`   
   Utility to control custom compile defines in editor and during player build.
