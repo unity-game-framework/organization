@@ -93,9 +93,9 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
   Provides property structure as value wrapper with track and control.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.1.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.2.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `4.1.1`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.0.0-preview`   
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `1.0.1`   
   Serializers implementation using Json.Net serialization.
