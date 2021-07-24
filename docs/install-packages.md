@@ -39,3 +39,16 @@ Example of `manifest.json` file with zero dependencies and _Unity Game Framework
   ]
 }
 ```
+
+## Preview Packages
+
+Some packages have _Preview_ version of package, with latest changes and features,
+but some of this packages will not work with _Non-Preivew_ versions of dependencies.
+
+If package have preview version and other dependencies, it is **recommened** to update all dependencies to preview versions.
+
+To display preview versions of packages, changing _Package Manager_ settings required.
+
+Read about _Package Manager Advaced Settings_:
+
+> https://docs.unity3d.com/2021.1/Documentation/Manual/class-PackageManager.html
