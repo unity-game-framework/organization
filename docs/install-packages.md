@@ -2,6 +2,12 @@
 
 This guide explains how to install any package from the **Unity Game Framework** registry.
 
+## List
+
+Documentation has list of all packages in one place with package version and other information.
+
+[Repositories List](repositories.md)
+
 ## Scoped Registry
 
 In order to access to packages from different registries, rather than the default registry,
