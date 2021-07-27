@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.3`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.4`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -124,7 +124,7 @@ Work in progress preview projects.
   Events system implementation.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.3`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.4`   
   Module to manage AssetBundles loading.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
