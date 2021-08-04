@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.0.0-preview.2`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.12.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.1.4`   
   Provides utilities for conditional compiled logs.
@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.4`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.5`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -49,8 +49,10 @@ Current actively developed projects.
 
 - [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview`   
   Actions system implementation.
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.8`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.9`   
   Provides an entry point of the application with modules initialization.
+- [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0-preview`   
+  Provides utilities to work with AssetBundles.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
@@ -67,7 +69,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.0.0-preview.2`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `1.12.0`   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.6.0`   
   Initialize pattern implementation.
@@ -77,6 +79,8 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.5`   
+  Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0-preview.4`   
@@ -93,7 +97,7 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
   Provides property structure as value wrapper with track and control.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.2.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.3.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.0.0-preview`   
   An abstract serialization interface with .Net and Unity serializers implementation.
@@ -124,8 +128,6 @@ Work in progress preview projects.
   Events system implementation.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.4`   
-  Module to manage AssetBundles loading.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
 - [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
