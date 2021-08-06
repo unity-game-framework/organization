@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.5`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.6`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -79,7 +79,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.5`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.6`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -105,6 +105,8 @@ Current actively developed projects.
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
+- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview`   
+  Provides utilities for testing with Unity Test Runner.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.2`   
@@ -186,8 +188,6 @@ Not recommended to use deprecated projects.
   UGF.Mvc
 - [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache) `1.0.1` `Archived`  
   UGF.StringCache
-- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `0.2.0-preview` `Archived`  
-  UGF.Testing
 - [ugf-time](https://github.com/unity-game-framework/ugf-time) `1.0.0-preview` `Archived`  
   UGF.Time
 
