@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.6`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -51,13 +51,13 @@ Current actively developed projects.
   Actions system implementation.
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.0.0-preview.9`   
   Provides an entry point of the application with modules initialization.
-- [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0-preview`   
+- [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0-preview.2`   
   Provides utilities to work with AssetBundles.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
   Build pattern implementation.
-- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.2`   
+- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.3`   
   Provides utilities to work with Unity coroutines.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv) `1.0.1`   
   Runtime integration of the CsvHelper.
@@ -79,7 +79,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.6`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.3`   
   Module to manage assets loading.
@@ -105,7 +105,7 @@ Current actively developed projects.
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
-- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.1`   
+- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.2`   
   Provides utilities for testing with Unity Test Runner.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
