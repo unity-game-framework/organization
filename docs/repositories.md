@@ -55,6 +55,8 @@ Current actively developed projects.
   Provides utilities to work with AssetBundles.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
+- [ugf-build](https://github.com/unity-game-framework/ugf-build)   
+  Provides configurable build process.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
   Build pattern implementation.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.3`   
@@ -109,7 +111,7 @@ Current actively developed projects.
   Provides utilities for testing with Unity Test Runner.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
-- [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.2`   
+- [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
   Provides utilities to work with PlayerLoop and manage update loop.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.0.0`   
   Provides utilities to work with Web requests.
