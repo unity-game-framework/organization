@@ -55,7 +55,7 @@ Current actively developed projects.
   Provides utilities to work with AssetBundles.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
   Extensions to work with custom asset pipelines.
-- [ugf-build](https://github.com/unity-game-framework/ugf-build)   
+- [ugf-build](https://github.com/unity-game-framework/ugf-build) `1.0.0-preview`   
   Provides configurable build process.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
   Build pattern implementation.
