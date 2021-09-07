@@ -107,7 +107,7 @@ Current actively developed projects.
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
-- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.2`   
+- [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.3`   
   Provides utilities for testing with Unity Test Runner.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
   Provides utilities to work with Unity UI.
