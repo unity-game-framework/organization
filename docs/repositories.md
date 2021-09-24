@@ -67,7 +67,7 @@ Current actively developed projects.
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.1.0-preview`   
   Provides utilities to work with data as database.
-- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview`   
+- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview.2`   
   Provides tools for working with debug information.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.5`   
   Utility to control custom compile defines in editor and during player build.
