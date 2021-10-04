@@ -67,7 +67,7 @@ Current actively developed projects.
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.1.0-preview`   
   Provides utilities to work with data as database.
-- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview.3`   
+- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview.4`   
   Provides tools for working with debug information.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.5`   
   Utility to control custom compile defines in editor and during player build.
@@ -111,7 +111,7 @@ Current actively developed projects.
   Serializers implementation using YamlDotNet serialization.
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.3`   
   Provides utilities for testing with Unity Test Runner.
-- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.0`   
+- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.1`   
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
   Provides utilities to work with PlayerLoop and manage update loop.
