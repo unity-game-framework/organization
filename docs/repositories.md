@@ -99,7 +99,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
-- [ugf-navigation](https://github.com/unity-game-framework/ugf-navigation)   
+- [ugf-navigation](https://github.com/unity-game-framework/ugf-navigation) `0.1.0-preview`   
   Provides utilities to work with Unity Navigation Mesh.
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
   Provides property structure as value wrapper with track and control.
