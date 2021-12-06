@@ -38,7 +38,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage multiple databases in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.6`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview.1`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
@@ -97,7 +97,7 @@ Current actively developed projects.
   Module to manage multiple databases in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.6`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0-preview.1`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
@@ -119,7 +119,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.0.0`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.1`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
