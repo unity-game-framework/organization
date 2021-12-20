@@ -79,7 +79,7 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.7.0`   
   Initialize pattern implementation.
-- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.3.0`   
+- [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.4.0`   
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
   Provides utilities for conditional compiled logs.
@@ -109,7 +109,7 @@ Current actively developed projects.
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.0.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
-- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.0.0`   
+- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.1.0`   
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
@@ -119,7 +119,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.1`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.2`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
