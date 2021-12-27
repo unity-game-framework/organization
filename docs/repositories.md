@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.1.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.2.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
   Provides utilities for conditional compiled logs.
@@ -30,7 +30,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage action systems in player loop.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.4`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0`   
   Module to manage multiple controllers in application.
@@ -75,7 +75,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.1.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.2.0`   
   Provides tools for working with editor code.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.7.0`   
   Initialize pattern implementation.
@@ -87,7 +87,7 @@ Current actively developed projects.
   Module to manage action systems in player loop.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0-preview.4`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0`   
   Module to manage multiple controllers in application.
@@ -101,7 +101,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
-- [ugf-navigation](https://github.com/unity-game-framework/ugf-navigation) `1.0.0-preview`   
+- [ugf-navigation](https://github.com/unity-game-framework/ugf-navigation) `1.0.0-preview.1`   
   Provides utilities to work with Unity Navigation Mesh.
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
   Provides property structure as value wrapper with track and control.
