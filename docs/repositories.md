@@ -77,12 +77,18 @@ Current actively developed projects.
   Description pattern implementation.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.2.0`   
   Provides tools for working with editor code.
+- [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.2`   
+  Events system implementation.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.7.0`   
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.4.0`   
   Provides utilities to work with JsonNet.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
   Provides utilities for conditional compiled logs.
+- [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
+  Provides components with Unity standard messages.
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview`   
+  Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.1`   
   Module to manage action systems in player loop.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
@@ -105,7 +111,7 @@ Current actively developed projects.
   Provides utilities to work with Unity Navigation Mesh.
 - [ugf-property](https://github.com/unity-game-framework/ugf-property) `2.0.0-preview`   
   Provides property structure as value wrapper with track and control.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.4.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.5.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.0.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
@@ -134,10 +140,6 @@ Work in progress preview projects.
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate) `5.0.0-preview`   
   Provides utilities to work with code generating.
-- [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.2`   
-  Events system implementation.
-- [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
-  Provides components with Unity standard messages.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
 - [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
@@ -174,8 +176,6 @@ Not recommended to use deprecated projects.
   UGF.Math
 - [ugf-messagepack](https://github.com/unity-game-framework/ugf-messagepack) `Archived`  
   UGF.MessagePack
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `Archived`  
-  Provides utilities to work with data models.
 - [ugf-module](https://github.com/unity-game-framework/ugf-module) `0.2.0-preview` `Archived`  
   UGF.Module
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `0.7.0-preview` `Archived`  
