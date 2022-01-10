@@ -36,7 +36,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage multiple controllers in application.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.4`   
   Module to manage multiple databases in application.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.6`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
   Module to manage multiple serializers in an application.
@@ -59,7 +59,7 @@ Current actively developed projects.
   Provides configurable build process.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
   Build pattern implementation.
-- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0-preview.3`   
+- [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0`   
   Provides utilities to work with Unity coroutines.
 - [ugf-csv](https://github.com/unity-game-framework/ugf-csv) `1.0.1`   
   Runtime integration of the CsvHelper.
@@ -97,11 +97,11 @@ Current actively developed projects.
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0`   
   Module to manage multiple controllers in application.
-- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0-preview`   
+- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0`   
   Module to manage coroutines run in application.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.4`   
   Module to manage multiple databases in application.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0-preview.6`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
   Module to manage multiple serializers in an application.
@@ -125,7 +125,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.2`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.3`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
@@ -151,8 +151,6 @@ Draft experimental projects.
 
 - [ugf-packagemanager-auth](https://github.com/unity-game-framework/ugf-packagemanager-auth)   
   Provides utilities to manage authentication for Unity Package Manager.
-- [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json) `4.1.1-preview`   
-  UGF.Utf8Json
 
 ## Deprecated
 
@@ -196,6 +194,8 @@ Not recommended to use deprecated projects.
   UGF.StringCache
 - [ugf-time](https://github.com/unity-game-framework/ugf-time) `1.0.0-preview` `Archived`  
   UGF.Time
+- [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json) `4.1.1-preview` `Archived`  
+  UGF.Utf8Json
 
 ## Other
 
