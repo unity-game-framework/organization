@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.2.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.3.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
   Provides utilities for conditional compiled logs.
@@ -32,7 +32,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.1.1`   
   Module to manage multiple controllers in application.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.4`   
   Module to manage multiple databases in application.
@@ -53,8 +53,6 @@ Current actively developed projects.
   Provides an entry point of the application with modules initialization.
 - [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0-preview.2`   
   Provides utilities to work with AssetBundles.
-- [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0`   
-  Extensions to work with custom asset pipelines.
 - [ugf-build](https://github.com/unity-game-framework/ugf-build) `1.0.0`   
   Provides configurable build process.
 - [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
@@ -75,14 +73,16 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.2.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.3.0`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.2`   
   Events system implementation.
-- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.7.0`   
+- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.8.0`   
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.4.0`   
   Provides utilities to work with JsonNet.
+- [ugf-jsonnet-bson](https://github.com/unity-game-framework/ugf-jsonnet-bson) `1.0.0-preview`   
+  Provides runtime integration of JsonNet.Bson
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
@@ -95,7 +95,7 @@ Current actively developed projects.
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.0.0`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.1.1`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0`   
   Module to manage coroutines run in application.
@@ -117,6 +117,8 @@ Current actively developed projects.
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.1.0`   
   Serializers implementation using Json.Net serialization.
+- [ugf-serialize-jsonnet-bson](https://github.com/unity-game-framework/ugf-serialize-jsonnet-bson) `1.0.0-preview`   
+  Serializers implementation using Json.Net Bson serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.3`   
@@ -134,28 +136,21 @@ Current actively developed projects.
 
 Work in progress preview projects.
 
-- [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies) `1.6.0-preview`   
-  Provides tools to work with assemblies.
 - [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis) `4.0.0-preview`   
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate) `5.0.0-preview`   
   Provides utilities to work with code generating.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `1.0.0`   
   UGF.Pool
-- [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview`   
-  Provides tools to work with types.
-
-## Experimental
-
-Draft experimental projects.
-
-- [ugf-packagemanager-auth](https://github.com/unity-game-framework/ugf-packagemanager-auth)   
-  Provides utilities to manage authentication for Unity Package Manager.
 
 ## Deprecated
 
 Not recommended to use deprecated projects.
 
+- [ugf-assemblies](https://github.com/unity-game-framework/ugf-assemblies) `1.6.0-preview` `Archived`  
+  Provides tools to work with assemblies.
+- [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0` `Archived`  
+  Extensions to work with custom asset pipelines.
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `1.0.1` `Archived`  
   UGF.Code.Extensions
 - [ugf-core](https://github.com/unity-game-framework/ugf-core) `Archived`  
@@ -190,10 +185,14 @@ Not recommended to use deprecated projects.
   UGF.Module.Unity
 - [ugf-mvc](https://github.com/unity-game-framework/ugf-mvc) `1.1.0-preview` `Archived`  
   UGF.Mvc
+- [ugf-packagemanager-auth](https://github.com/unity-game-framework/ugf-packagemanager-auth) `Archived`  
+  Provides utilities to manage authentication for Unity Package Manager.
 - [ugf-stringcache](https://github.com/unity-game-framework/ugf-stringcache) `1.0.1` `Archived`  
   UGF.StringCache
 - [ugf-time](https://github.com/unity-game-framework/ugf-time) `1.0.0-preview` `Archived`  
   UGF.Time
+- [ugf-types](https://github.com/unity-game-framework/ugf-types) `3.1.0-preview` `Archived`  
+  Provides tools to work with types.
 - [ugf-utf8json](https://github.com/unity-game-framework/ugf-utf8json) `4.1.1-preview` `Archived`  
   UGF.Utf8Json
 
