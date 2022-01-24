@@ -113,7 +113,7 @@ Current actively developed projects.
   Provides property structure as value wrapper with track and control.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.5.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.0.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.1.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.1.0`   
   Serializers implementation using Json.Net serialization.
