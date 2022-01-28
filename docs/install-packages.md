@@ -10,7 +10,7 @@ Documentation has list of all packages in one place with package version and oth
 
 ## Scoped Registry
 
-In order to access to packages from different registries, rather than the default registry,
+In order to access packages from different registries, rather than the default registry,
 _Unity_ provides the way to define and use scoped registries with custom packages.
 
 Read more about scoped registries:
@@ -29,7 +29,7 @@ This file located at _Unity_ project folder at specific path:
 
 Open and edit file to add information for required registry.
 
-Example of `manifest.json` file with zero dependencies and _Unity Game Framework_ registry:
+Example of `manifest.json` file with no dependencies and _Unity Game Framework_ registry:
 
 ```json
 {
