@@ -32,6 +32,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage assets loading.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `2.1.1`   
   Module to manage multiple controllers in application.
+- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0`   
+  Module to manage coroutines run in application.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
