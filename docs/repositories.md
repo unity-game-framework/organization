@@ -111,7 +111,7 @@ Current actively developed projects.
   Provides utilities for testing with Unity Test Runner.
 - [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `1.0.1`   
   Provides utilities to work with Unity UI.
-- [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0-preview.4`   
+- [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.3`   
   Provides utilities to work with Web requests.
