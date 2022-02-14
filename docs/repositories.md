@@ -81,7 +81,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview.1`   
   Provides utilities to work with data models.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
   Module to manage AssetBundles loading.
@@ -101,7 +101,7 @@ Current actively developed projects.
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.1.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
-- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.1.0`   
+- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.2.0`   
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-jsonnet-bson](https://github.com/unity-game-framework/ugf-serialize-jsonnet-bson) `1.0.0-preview`   
   Serializers implementation using Json.Net Bson serialization.
