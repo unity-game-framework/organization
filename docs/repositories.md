@@ -113,7 +113,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.1.3`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.2.0`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
