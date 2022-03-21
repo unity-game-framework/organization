@@ -10,7 +10,7 @@ Projects featured to be used.
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.3.0`   
   Provides tools for working with editor code.
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
 
 ## Main
@@ -51,7 +51,7 @@ Current actively developed projects.
   Provides utilities to work with AssetBundles.
 - [ugf-build](https://github.com/unity-game-framework/ugf-build) `1.0.0`   
   Provides configurable build process.
-- [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.1`   
+- [ugf-builder](https://github.com/unity-game-framework/ugf-builder) `2.0.2`   
   Build pattern implementation.
 - [ugf-coroutines](https://github.com/unity-game-framework/ugf-coroutines) `1.0.0`   
   Provides utilities to work with Unity coroutines.
@@ -77,7 +77,7 @@ Current actively developed projects.
   Provides utilities to work with JsonNet.
 - [ugf-jsonnet-bson](https://github.com/unity-game-framework/ugf-jsonnet-bson) `1.0.0-preview`   
   Provides runtime integration of JsonNet.Bson
-- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.2.2`   
+- [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
@@ -101,7 +101,7 @@ Current actively developed projects.
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.1.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
-- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.2.0`   
+- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.3.0`   
   Serializers implementation using Json.Net serialization.
 - [ugf-serialize-jsonnet-bson](https://github.com/unity-game-framework/ugf-serialize-jsonnet-bson) `1.0.0-preview`   
   Serializers implementation using Json.Net Bson serialization.
@@ -113,7 +113,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.2.0`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.3.0`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
