@@ -153,7 +153,7 @@ Not recommended to use deprecated projects.
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `1.0.1` `Archived`  
   UGF.Code.Extensions
-- [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate) `5.0.0-preview`   
+- [ugf-code-generate](https://github.com/unity-game-framework/ugf-code-generate) `5.0.0-preview` `Archived`  
   Provides utilities to work with code generating.
 - [ugf-core](https://github.com/unity-game-framework/ugf-core) `Archived`  
   UGF.Core
