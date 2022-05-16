@@ -36,6 +36,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage coroutines run in application.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview`   
   Module to manager language and other locale.
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool)   
+  Module to manage pool collections.
 - [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing)   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
@@ -97,6 +99,8 @@ Current actively developed projects.
   Module to manage coroutines run in application.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview`   
   Module to manager language and other locale.
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool)   
+  Module to manage pool collections.
 - [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing)   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
@@ -105,7 +109,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
-- [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview`   
+- [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview.3`   
   Provides tools to work with pool collections.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.7.0`   
   Provides tools for working with runtime code.
