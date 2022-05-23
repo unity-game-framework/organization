@@ -26,7 +26,7 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
@@ -36,9 +36,9 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage coroutines run in application.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview`   
   Module to manager language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool)   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `1.0.0-preview`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing)   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `1.0.0-preview`   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
   Module to manage scenes loading.
@@ -53,7 +53,7 @@ Current actively developed projects.
 
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.1.0`   
   Provides an entry point of the application with modules initialization.
-- [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0-preview.2`   
+- [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0`   
   Provides utilities to work with AssetBundles.
 - [ugf-build](https://github.com/unity-game-framework/ugf-build) `1.0.0`   
   Provides configurable build process.
@@ -89,7 +89,7 @@ Current actively developed projects.
   Provides components with Unity standard messages.
 - [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview.1`   
   Provides utilities to work with data models.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0-preview.7`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
   Module to manage assets loading.
@@ -99,9 +99,9 @@ Current actively developed projects.
   Module to manage coroutines run in application.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview`   
   Module to manager language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool)   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `1.0.0-preview`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing)   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `1.0.0-preview`   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
   Module to manage scenes loading.
@@ -109,7 +109,7 @@ Current actively developed projects.
   Module to manage multiple serializers in an application.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
   Module to manage update player loop.
-- [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview.3`   
+- [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview.4`   
   Provides tools to work with pool collections.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.7.0`   
   Provides tools for working with runtime code.
