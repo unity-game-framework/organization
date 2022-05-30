@@ -89,6 +89,8 @@ Current actively developed projects.
   Provides components with Unity standard messages.
 - [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview.1`   
   Provides utilities to work with data models.
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
+  Module to manager Unity Analytics.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.0.0`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
@@ -157,7 +159,7 @@ Not recommended to use deprecated projects.
   Provides tools to work with assemblies.
 - [ugf-assetpipeline](https://github.com/unity-game-framework/ugf-assetpipeline) `1.0.0` `Archived`  
   Extensions to work with custom asset pipelines.
-- [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis) `4.0.0-preview`   
+- [ugf-code-analysis](https://github.com/unity-game-framework/ugf-code-analysis) `4.0.0-preview` `Archived`  
   Provides access to Microsoft Roslyn Code Analysis libraries and additional extensions.
 - [ugf-code-extensions](https://github.com/unity-game-framework/ugf-code-extensions) `1.0.1` `Archived`  
   UGF.Code.Extensions
