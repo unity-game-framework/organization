@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.6.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.8.1`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -26,32 +26,34 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.1.0`   
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
+  Module to manager Unity Analytics.
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0-preview`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `3.0.0-preview`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.1`   
   Module to manage multiple controllers in application.
-- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0`   
+- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview.2`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview`   
   Module to manager language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `1.0.0-preview`   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `1.0.0-preview`   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview`   
   Module to manager Unity Purchasing.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `4.0.0-preview`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `5.0.0-preview`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `4.0.0-preview`   
   Module to manage update player loop.
 
 ## Active
 
 Current actively developed projects.
 
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.2.0`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.3.0`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.0.0`   
   Provides utilities to work with AssetBundles.
@@ -65,7 +67,7 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-data](https://github.com/unity-game-framework/ugf-data) `2.0.0-preview.4`   
+- [ugf-data](https://github.com/unity-game-framework/ugf-data) `3.0.0-preview`   
   Provides tools for working with data management.
 - [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview.4`   
   Provides tools for working with debug information.
@@ -73,11 +75,11 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.6.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.8.1`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.2`   
   Events system implementation.
-- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.8.0`   
+- [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.9.0`   
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.4.0`   
   Provides utilities to work with JsonNet.
@@ -91,29 +93,29 @@ Current actively developed projects.
   Provides utilities to work with data models.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
   Module to manager Unity Analytics.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `1.1.0`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0-preview`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `4.0.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `3.0.0-preview`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.1`   
   Module to manage multiple controllers in application.
-- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `1.0.0`   
+- [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `1.0.0-preview.2`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview`   
   Module to manager language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `1.0.0-preview`   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `1.0.0-preview`   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview`   
   Module to manager Unity Purchasing.
-- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `3.0.0`   
+- [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `4.0.0-preview`   
   Module to manage scenes loading.
-- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `4.0.0`   
+- [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `5.0.0-preview`   
   Module to manage multiple serializers in an application.
-- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `3.0.0-preview.2`   
+- [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `4.0.0-preview`   
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview.4`   
   Provides tools to work with pool collections.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.9.1`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.9.2`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.1.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
@@ -129,7 +131,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.3.2`   
+- [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.4.0`   
   Provides utilities to work with Web requests.
 - [ugf-yaml](https://github.com/unity-game-framework/ugf-yaml) `1.1.0`   
   Runtime integration of the YamlDotNet.
