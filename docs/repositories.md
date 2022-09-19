@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.11.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.12.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -75,7 +75,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.11.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.12.0`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.2`   
   Events system implementation.
@@ -115,9 +115,9 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0-preview.4`   
   Provides tools to work with pool collections.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.15.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.16.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.1.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.2.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.3.0`   
   Serializers implementation using Json.Net serialization.
