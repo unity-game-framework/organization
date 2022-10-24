@@ -26,6 +26,8 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.2`   
+  Module to manage action systems in player loop.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
   Module to manager Unity Analytics.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0-preview.2`   
@@ -53,6 +55,8 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 Current actively developed projects.
 
+- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview.2`   
+  Actions system implementation.
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.3.1`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.2.0`   
@@ -89,8 +93,10 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `1.0.0-preview.1`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview`   
   Provides utilities to work with data models.
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.2`   
+  Module to manage action systems in player loop.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
   Module to manager Unity Analytics.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0-preview.2`   
@@ -140,12 +146,8 @@ Current actively developed projects.
 
 Work in progress preview projects.
 
-- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview.2`   
-  Actions system implementation.
 - [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.1.0-preview`   
   Provides utilities to work with data as database.
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.2`   
-  Module to manage action systems in player loop.
 - [ugf-module-database](https://github.com/unity-game-framework/ugf-module-database) `1.0.0-preview.4`   
   Module to manage multiple databases in application.
 - [ugf-navigation](https://github.com/unity-game-framework/ugf-navigation) `1.0.0-preview.1`   
