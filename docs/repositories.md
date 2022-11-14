@@ -26,7 +26,7 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.4`   
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
   Module to manager Unity Analytics.
@@ -34,10 +34,12 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview.2`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.5`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.6`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.2`   
+  Module to manager description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview`   
@@ -55,7 +57,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 Current actively developed projects.
 
-- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview.3`   
+- [ugf-actions](https://github.com/unity-game-framework/ugf-actions) `3.0.0-preview.4`   
   Actions system implementation.
 - [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.3.1`   
   Provides an entry point of the application with modules initialization.
@@ -93,9 +95,9 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.1`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.3`   
   Provides utilities to work with data models.
-- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.4`   
+- [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
   Module to manager Unity Analytics.
@@ -103,10 +105,12 @@ Current actively developed projects.
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview.2`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.5`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.6`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.2`   
+  Module to manager description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview`   
@@ -189,8 +193,6 @@ Not recommended to use deprecated projects.
   UGF.Module
 - [ugf-module-addressable](https://github.com/unity-game-framework/ugf-module-addressable) `0.7.0-preview` `Archived`  
   UGF.Module.Addressable
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `0.6.0-preview` `Archived`  
-  UGF.Module.Descriptions
 - [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements) `0.5.0-preview` `Archived`  
   UGF.Module.Elements
 - [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `0.1.0-preview` `Archived`  
