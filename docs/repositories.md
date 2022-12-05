@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.13.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.14.0`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -38,7 +38,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.2`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.3`   
   Module to manager description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
   Module to manager language and other locale.
@@ -81,7 +81,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.13.0`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.14.0`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `1.0.0-preview.3`   
   Events system implementation.
@@ -95,7 +95,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.3`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.4`   
   Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
@@ -109,7 +109,7 @@ Current actively developed projects.
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.2`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.3`   
   Module to manager description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
   Module to manager language and other locale.
