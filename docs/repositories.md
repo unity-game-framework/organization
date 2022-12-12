@@ -95,7 +95,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.4`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.5`   
   Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
@@ -127,11 +127,11 @@ Current actively developed projects.
   Provides tools to work with pool collections.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.18.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.2.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.0`   
   An abstract serialization interface with .Net and Unity serializers implementation.
-- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `2.3.0`   
+- [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `3.0.0-preview`   
   Serializers implementation using Json.Net serialization.
-- [ugf-serialize-jsonnet-bson](https://github.com/unity-game-framework/ugf-serialize-jsonnet-bson) `1.0.0-preview`   
+- [ugf-serialize-jsonnet-bson](https://github.com/unity-game-framework/ugf-serialize-jsonnet-bson) `1.0.0-preview.1`   
   Serializers implementation using Json.Net Bson serialization.
 - [ugf-serialize-yamldotnet](https://github.com/unity-game-framework/ugf-serialize-yamldotnet) `2.0.0`   
   Serializers implementation using YamlDotNet serialization.
