@@ -34,13 +34,13 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview.2`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.6`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.7`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.3`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.5`   
   Module to manager description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.2`   
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview.5`   
   Module to manage pool collections.
@@ -73,7 +73,7 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-data](https://github.com/unity-game-framework/ugf-data) `3.0.0-preview.1`   
+- [ugf-data](https://github.com/unity-game-framework/ugf-data) `3.0.0-preview.3`   
   Provides tools for working with data management.
 - [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `1.0.0-preview.4`   
   Provides tools for working with debug information.
@@ -105,13 +105,13 @@ Current actively developed projects.
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0-preview.2`   
   Module to manage assets loading.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.6`   
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0-preview.7`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.3`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0-preview.5`   
   Module to manager description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.1`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.0.0-preview.2`   
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0-preview.5`   
   Module to manage pool collections.
@@ -127,7 +127,7 @@ Current actively developed projects.
   Provides tools to work with pool collections.
 - [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.18.0`   
   Provides tools for working with runtime code.
-- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.0`   
+- [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.1`   
   An abstract serialization interface with .Net and Unity serializers implementation.
 - [ugf-serialize-jsonnet](https://github.com/unity-game-framework/ugf-serialize-jsonnet) `3.0.0-preview`   
   Serializers implementation using Json.Net serialization.
