@@ -13,7 +13,7 @@ jobs:
       with:
         ref: ${{ github.sha }}
     - name: Config
-      uses: unity-game-framework-actions/file-access@master
+      uses: unity-game-framework-actions/file-access@main
       id: config
       with:
         input: |
@@ -22,6 +22,6 @@ jobs:
               input: .github/config.yml
               path: labels
     - name: Update
-      uses: unity-game-framework-actions/labels-update@master
+      uses: unity-game-framework-actions/labels-update@main
       with:
         config: ${{ steps.config.outputs.labels }}

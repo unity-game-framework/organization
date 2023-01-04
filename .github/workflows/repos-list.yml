@@ -16,7 +16,7 @@ jobs:
       with:
         token: ${{ secrets.userToken }}
     - name: Config
-      uses: unity-game-framework-actions/file-access@master
+      uses: unity-game-framework-actions/file-access@main
       id: config
       with:
         input: |
@@ -25,7 +25,7 @@ jobs:
               input: .github/config.yml
               path: list
     - name: Create
-      uses: unity-game-framework-actions/repos-list@master
+      uses: unity-game-framework-actions/repos-list@main
       with:
         token: ${{ secrets.userToken }}
         config: ${{ steps.config.outputs.list }}
