@@ -83,7 +83,7 @@ Current actively developed projects.
   Description pattern implementation.
 - [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `2.15.0`   
   Provides tools for working with editor code.
-- [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview`   
+- [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.9.0`   
   Initialize pattern implementation.
