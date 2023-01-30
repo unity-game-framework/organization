@@ -141,7 +141,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.1`   
+- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.2`   
   Provides utilities to work with data views.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.5.1`   
   Provides utilities to work with Web requests.
