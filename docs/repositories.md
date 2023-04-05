@@ -28,12 +28,20 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
-- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
-  Module to manager Unity Analytics.
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
+  Module to manage Unity Ads.
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.3`   
+  Module to manage Unity Analytics.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0`   
   Module to manage assets loading.
+- [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview`   
+  Module to manage Unity Authentication.
+- [ugf-module-clouddiagnostics](https://github.com/unity-game-framework/ugf-module-clouddiagnostics) `1.0.0-preview`   
+  Module to manage Unity Cloud Diagnostics.
+- [ugf-module-cloudsave](https://github.com/unity-game-framework/ugf-module-cloudsave) `1.0.0-preview`   
+  Module to manage Unity Cloud Save.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0`   
@@ -44,12 +52,14 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview`   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview.1`   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `4.0.0`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `5.0.0`   
   Module to manage multiple serializers in an application.
+- [ugf-module-services](https://github.com/unity-game-framework/ugf-module-services) `1.0.0-preview.1`   
+  Module to manage Unity Game Services.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `4.0.0`   
   Module to manage update player loop.
 
@@ -99,12 +109,20 @@ Current actively developed projects.
   Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
-- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.1`   
-  Module to manager Unity Analytics.
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
+  Module to manage Unity Ads.
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.3`   
+  Module to manage Unity Analytics.
 - [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0`   
   Module to manage assets loading.
+- [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview`   
+  Module to manage Unity Authentication.
+- [ugf-module-clouddiagnostics](https://github.com/unity-game-framework/ugf-module-clouddiagnostics) `1.0.0-preview`   
+  Module to manage Unity Cloud Diagnostics.
+- [ugf-module-cloudsave](https://github.com/unity-game-framework/ugf-module-cloudsave) `1.0.0-preview`   
+  Module to manage Unity Cloud Save.
 - [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.0.0`   
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0`   
@@ -115,12 +133,14 @@ Current actively developed projects.
   Module to manager language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0`   
   Module to manage pool collections.
-- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview`   
+- [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview.1`   
   Module to manager Unity Purchasing.
 - [ugf-module-scenes](https://github.com/unity-game-framework/ugf-module-scenes) `4.0.0`   
   Module to manage scenes loading.
 - [ugf-module-serialize](https://github.com/unity-game-framework/ugf-module-serialize) `5.0.0`   
   Module to manage multiple serializers in an application.
+- [ugf-module-services](https://github.com/unity-game-framework/ugf-module-services) `1.0.0-preview.1`   
+  Module to manage Unity Game Services.
 - [ugf-module-update](https://github.com/unity-game-framework/ugf-module-update) `4.0.0`   
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0`   
