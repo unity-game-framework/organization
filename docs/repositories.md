@@ -50,7 +50,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.1.0`   
   Module to manage language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0`   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
 - [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview.1`   
   Module to manage Unity Purchasing.
@@ -131,7 +131,7 @@ Current actively developed projects.
   Module to manage description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.1.0`   
   Module to manage language and other locale.
-- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.0.0`   
+- [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
 - [ugf-module-purchasing](https://github.com/unity-game-framework/ugf-module-purchasing) `2.0.0-preview.1`   
   Module to manage Unity Purchasing.
