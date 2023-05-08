@@ -30,11 +30,11 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage action systems in player loop.
 - [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
   Module to manage Unity Ads.
-- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.5`   
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.1.0`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.1.0`   
   Module to manage assets loading.
 - [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview.1`   
   Module to manage Unity Authentication.
@@ -48,7 +48,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage coroutines run in application.
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.1.0`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.2.0`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
@@ -111,11 +111,11 @@ Current actively developed projects.
   Module to manage action systems in player loop.
 - [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
   Module to manage Unity Ads.
-- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.5`   
+- [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.0.0`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `2.1.0`   
   Module to manage AssetBundles loading.
-- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.0.0`   
+- [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `5.1.0`   
   Module to manage assets loading.
 - [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview.1`   
   Module to manage Unity Authentication.
@@ -129,7 +129,7 @@ Current actively developed projects.
   Module to manage coroutines run in application.
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.1.0`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.2.0`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
