@@ -28,7 +28,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
-- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.1`   
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
@@ -95,6 +95,8 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
+- [ugf-google-externaldependencymanager](https://github.com/unity-game-framework/ugf-google-externaldependencymanager) `1.0.0-preview`   
+  Provides Google External Dependency Manager tools.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.9.0`   
   Initialize pattern implementation.
 - [ugf-jsonnet](https://github.com/unity-game-framework/ugf-jsonnet) `1.5.0`   
@@ -109,7 +111,7 @@ Current actively developed projects.
   Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
-- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview`   
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.1`   
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
