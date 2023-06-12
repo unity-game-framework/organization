@@ -107,7 +107,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.9`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `2.0.0-preview.10`   
   Provides utilities to work with data models.
 - [ugf-module-actions](https://github.com/unity-game-framework/ugf-module-actions) `2.0.0-preview.5`   
   Module to manage action systems in player loop.
