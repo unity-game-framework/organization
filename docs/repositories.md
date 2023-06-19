@@ -48,7 +48,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage coroutines run in application.
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.2.0`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.3.0`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
@@ -131,7 +131,7 @@ Current actively developed projects.
   Module to manage coroutines run in application.
 - [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.2.0`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.3.0`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `2.1.0`   
   Module to manage pool collections.
@@ -147,7 +147,7 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0`   
   Provides tools to work with pool collections.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.18.0`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `2.19.0`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.1`   
   An abstract serialization interface with .Net and Unity serializers implementation.
