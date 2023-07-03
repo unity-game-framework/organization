@@ -46,7 +46,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `2.0.0-preview`   
   Module to manage description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.3.0`   
   Module to manage language and other locale.
@@ -129,7 +129,7 @@ Current actively developed projects.
   Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `2.0.0`   
   Module to manage coroutines run in application.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `1.0.0`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `2.0.0-preview`   
   Module to manage description collections.
 - [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `2.3.0`   
   Module to manage language and other locale.
@@ -195,6 +195,8 @@ Not recommended to use deprecated projects.
   Provides utilities to work with code generating.
 - [ugf-core](https://github.com/unity-game-framework/ugf-core) `Archived`  
   UGF.Core
+- [ugf-database](https://github.com/unity-game-framework/ugf-database) `1.1.0-preview` `Archived`  
+  Provides utilities to work with data as database.
 - [ugf-elements](https://github.com/unity-game-framework/ugf-elements) `0.2.2-preview` `Archived`  
   UGF.Elements
 - [ugf-factory](https://github.com/unity-game-framework/ugf-factory) `2.1.0-preview` `Archived`  
