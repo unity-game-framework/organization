@@ -37,7 +37,7 @@ Example of `manifest.json` file with no dependencies and _Unity Game Framework_ 
   "scopedRegistries": [
     {
       "name": "Unity Game Framework",
-      "url": "https://unitygameframework.jfrog.io/artifactory/api/npm/default",
+      "url": "https://api.upmhub.org/registries/unity-game-framework",
       "scopes": [
         "com.ugf"
       ]
