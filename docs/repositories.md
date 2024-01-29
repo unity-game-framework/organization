@@ -103,7 +103,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `3.0.0-preview.1`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `3.0.0-preview.2`   
   Provides utilities to work with data models.
 - [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.1`   
   Module to manage Unity Ads.
