@@ -105,7 +105,7 @@ Current actively developed projects.
   Provides utilities for conditional compiled logs.
 - [ugf-messages](https://github.com/unity-game-framework/ugf-messages) `1.0.0-preview.2`   
   Provides components with Unity standard messages.
-- [ugf-models](https://github.com/unity-game-framework/ugf-models) `3.0.0-preview.2`   
+- [ugf-models](https://github.com/unity-game-framework/ugf-models) `3.0.0-preview.3`   
   Provides utilities to work with data models.
 - [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.1`   
   Module to manage Unity Ads.
@@ -157,11 +157,11 @@ Current actively developed projects.
   Provides components to apply object state.
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.3`   
   Provides utilities for testing with Unity Test Runner.
-- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `2.0.0-preview.2`   
+- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `2.0.0-preview.3`   
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.3`   
+- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.4`   
   Provides utilities to work with data views.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.5.1`   
   Provides utilities to work with Web requests.
