@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.2`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.4`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -65,7 +65,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
 
 Current actively developed projects.
 
-- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.5.0`   
+- [ugf-application](https://github.com/unity-game-framework/ugf-application) `8.6.0`   
   Provides an entry point of the application with modules initialization.
 - [ugf-assetbundles](https://github.com/unity-game-framework/ugf-assetbundles) `1.2.0`   
   Provides utilities to work with AssetBundles.
@@ -89,7 +89,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.2`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.4`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
@@ -161,7 +161,7 @@ Current actively developed projects.
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
-- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.4`   
+- [ugf-views](https://github.com/unity-game-framework/ugf-views) `1.0.0-preview.5`   
   Provides utilities to work with data views.
 - [ugf-webrequests](https://github.com/unity-game-framework/ugf-webrequests) `1.5.1`   
   Provides utilities to work with Web requests.
