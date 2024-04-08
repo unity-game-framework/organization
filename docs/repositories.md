@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.6`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.7`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -89,7 +89,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.6`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.7`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
@@ -143,7 +143,7 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0`   
   Provides tools to work with pool collections.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `3.0.0-preview.7`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `3.0.0-preview.13`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.1`   
   An abstract serialization interface with .Net and Unity serializers implementation.
@@ -157,7 +157,7 @@ Current actively developed projects.
   Provides components to apply object state.
 - [ugf-testing](https://github.com/unity-game-framework/ugf-testing) `1.0.0-preview.3`   
   Provides utilities for testing with Unity Test Runner.
-- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `2.0.0-preview.3`   
+- [ugf-ui](https://github.com/unity-game-framework/ugf-ui) `2.0.0-preview.4`   
   Provides utilities to work with Unity UI.
 - [ugf-update](https://github.com/unity-game-framework/ugf-update) `6.0.0`   
   Provides utilities to work with PlayerLoop and manage update loop.
