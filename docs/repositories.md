@@ -8,7 +8,7 @@ Projects featured to be used.
 
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.8`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.9`   
   Provides tools for working with editor code.
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.3.0`   
   Provides utilities for conditional compiled logs.
@@ -30,7 +30,7 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `3.0.0-preview.1`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `3.0.0-preview.2`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `6.0.0-preview.1`   
   Module to manage assets loading.
@@ -89,7 +89,7 @@ Current actively developed projects.
   Utility to control custom compile defines in editor and during player build.
 - [ugf-description](https://github.com/unity-game-framework/ugf-description) `2.0.0`   
   Description pattern implementation.
-- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.8`   
+- [ugf-editortools](https://github.com/unity-game-framework/ugf-editortools) `3.0.0-preview.9`   
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
@@ -111,7 +111,7 @@ Current actively developed projects.
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.6`   
   Module to manage Unity Analytics.
-- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `3.0.0-preview.1`   
+- [ugf-module-assetbundles](https://github.com/unity-game-framework/ugf-module-assetbundles) `3.0.0-preview.2`   
   Module to manage AssetBundles loading.
 - [ugf-module-assets](https://github.com/unity-game-framework/ugf-module-assets) `6.0.0-preview.1`   
   Module to manage assets loading.
@@ -143,7 +143,7 @@ Current actively developed projects.
   Module to manage update player loop.
 - [ugf-pool](https://github.com/unity-game-framework/ugf-pool) `2.0.0`   
   Provides tools to work with pool collections.
-- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `3.0.0-preview.16`   
+- [ugf-runtimetools](https://github.com/unity-game-framework/ugf-runtimetools) `3.0.0-preview.17`   
   Provides tools for working with runtime code.
 - [ugf-serialize](https://github.com/unity-game-framework/ugf-serialize) `5.3.1`   
   An abstract serialization interface with .Net and Unity serializers implementation.
