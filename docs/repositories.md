@@ -93,7 +93,7 @@ Current actively developed projects.
   Provides tools for working with editor code.
 - [ugf-events](https://github.com/unity-game-framework/ugf-events) `2.0.0-preview.1`   
   Events system implementation.
-- [ugf-google-externaldependencymanager](https://github.com/unity-game-framework/ugf-google-externaldependencymanager) `1.0.0-preview`   
+- [ugf-google-externaldependencymanager](https://github.com/unity-game-framework/ugf-google-externaldependencymanager) `1.0.0-preview.1`   
   Provides Google External Dependency Manager tools.
 - [ugf-initialize](https://github.com/unity-game-framework/ugf-initialize) `2.9.0`   
   Initialize pattern implementation.
