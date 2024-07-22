@@ -107,3 +107,6 @@ list:
   - name: Legacy
     description: Legacy no longer maintained projects.
     topics: legacy
+  - name: Ancestor
+    description: The first generation of _Unity Game Framework_ projects.
+    topics: ancestor
