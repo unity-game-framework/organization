@@ -36,8 +36,6 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage assets loading.
 - [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview.3`   
   Module to manage Unity Authentication.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.1.0-preview`   
-  Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `3.0.0-preview`   
   Module to manage coroutines run in application.
 - [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview`   
@@ -107,8 +105,6 @@ Current actively developed projects.
   Module to manage assets loading.
 - [ugf-module-authentication](https://github.com/unity-game-framework/ugf-module-authentication) `1.0.0-preview.3`   
   Module to manage Unity Authentication.
-- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.1.0-preview`   
-  Module to manage multiple controllers in application.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `3.0.0-preview`   
   Module to manage coroutines run in application.
 - [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview`   
@@ -206,6 +202,8 @@ Not recommended to use deprecated projects.
   Module to manage Unity Cloud Diagnostics.
 - [ugf-module-cloudsave](https://github.com/unity-game-framework/ugf-module-cloudsave) `1.0.0-preview` `Archived`  
   Module to manage Unity Cloud Save.
+- [ugf-module-controllers](https://github.com/unity-game-framework/ugf-module-controllers) `4.1.0-preview` `Archived`  
+  Module to manage multiple controllers in application.
 - [ugf-module-elements](https://github.com/unity-game-framework/ugf-module-elements) `0.5.0-preview` `Archived`  
   UGF.Module.Elements
 - [ugf-module-factory](https://github.com/unity-game-framework/ugf-module-factory) `0.1.0-preview` `Archived`  
