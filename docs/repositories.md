@@ -38,11 +38,11 @@ Module projects compatible with [UGF.Application](https://github.com/unity-game-
   Module to manage Unity Authentication.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `3.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview`   
+- [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview.1`   
   Module to manage Debug tools.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `3.0.0-preview.1`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `3.0.0-preview.2`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `3.0.0-preview.1`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `3.0.0-preview.2`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `3.0.0-preview.1`   
   Module to manage pool collections.
@@ -77,7 +77,7 @@ Current actively developed projects.
   Runtime integration of the CsvHelper.
 - [ugf-customsettings](https://github.com/unity-game-framework/ugf-customsettings) `3.4.1`   
   Provides utilities to implement custom ProjectSettings or Preferences, for editor or runtime.
-- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `2.0.0-preview.1`   
+- [ugf-debugtools](https://github.com/unity-game-framework/ugf-debugtools) `3.0.0-preview`   
   Provides tools for working with debug information.
 - [ugf-defines](https://github.com/unity-game-framework/ugf-defines) `2.1.5`   
   Utility to control custom compile defines in editor and during player build.
@@ -107,11 +107,11 @@ Current actively developed projects.
   Module to manage Unity Authentication.
 - [ugf-module-coroutines](https://github.com/unity-game-framework/ugf-module-coroutines) `3.0.0-preview`   
   Module to manage coroutines run in application.
-- [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview`   
+- [ugf-module-debug](https://github.com/unity-game-framework/ugf-module-debug) `1.0.0-preview.1`   
   Module to manage Debug tools.
-- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `3.0.0-preview.1`   
+- [ugf-module-descriptions](https://github.com/unity-game-framework/ugf-module-descriptions) `3.0.0-preview.2`   
   Module to manage description collections.
-- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `3.0.0-preview.1`   
+- [ugf-module-locale](https://github.com/unity-game-framework/ugf-module-locale) `3.0.0-preview.2`   
   Module to manage language and other locale.
 - [ugf-module-pool](https://github.com/unity-game-framework/ugf-module-pool) `3.0.0-preview.1`   
   Module to manage pool collections.
