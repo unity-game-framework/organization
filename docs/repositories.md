@@ -26,7 +26,7 @@ Organization main repositories.
 
 Module projects compatible with [UGF.Application](https://github.com/unity-game-framework/ugf-application) project.
 
-- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.2`   
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.3`   
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.7`   
   Module to manage Unity Analytics.
@@ -95,7 +95,7 @@ Current actively developed projects.
   Provides runtime integration of JsonNet.Bson
 - [ugf-logs](https://github.com/unity-game-framework/ugf-logs) `5.4.0`   
   Provides utilities for conditional compiled logs.
-- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.2`   
+- [ugf-module-ads](https://github.com/unity-game-framework/ugf-module-ads) `1.0.0-preview.3`   
   Module to manage Unity Ads.
 - [ugf-module-analytics](https://github.com/unity-game-framework/ugf-module-analytics) `1.0.0-preview.7`   
   Module to manage Unity Analytics.
